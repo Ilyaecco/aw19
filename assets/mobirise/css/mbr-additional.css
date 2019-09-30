@@ -5554,6 +5554,40 @@ body {
     padding-bottom: 2rem;
   }
 }
+.cid-rDxiTZ14HJ {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rDxiTZ14HJ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rDxiTZ14HJ p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rDxiTZ14HJ .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rDxiTZ14HJ .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rDxiTZ14HJ .mbr-text {
+  color: #767676;
+}
+.cid-rDxiTZ14HJ .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rDxiTZ14HJ .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
 .cid-rzMeBLqgpd {
   padding-top: 30px;
   padding-bottom: 30px;
